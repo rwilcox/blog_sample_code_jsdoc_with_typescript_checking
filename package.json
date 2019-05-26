@@ -1,0 +1,20 @@
+{
+  "name": "jsdoc_typechecked",
+  "version": "1.0.0",
+  "description": "Testing something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-jsdoc": "^7.0.2",
+    "jsdoc": "^3.6.2",
+    "jsdoc-plugin-typescript": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
